@@ -1,4 +1,5 @@
 Hello,
 
 I'm Stephane De Barros, PhD, I'm interested in many topics but mostly in natural sciences in general.
-You can find here some things that I have produced.
+
+I'm starting to use this page to gather and share some interesting analysis using (or not) machine learning/
